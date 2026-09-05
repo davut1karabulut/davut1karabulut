@@ -16,7 +16,7 @@
 
 ## 👤 Hakkımda
 
-8+ yıldır kripto & blokzincir ekosisteminde aktif bir **teknoloji ve Web3 profesyoneliyim.**  
+8+ yıldır kripto para ve blokzincir ekosisteminde aktif olarak faaliyet gösteriyorum.  
 Uluslararası projelerin Türkiye pazarında konumlanmasına katkı sağladım; yerel ile global arasında **köprü kurdum.**
 
 Saha deneyimimi **teknopolitika ve makroekonomi** perspektifiyle yazarlığa taşıyorum:  
