@@ -16,9 +16,13 @@
 
 ## 👤 Hakkımda
 
-**8+ yıl** kripto, blokzincir ve makroekonomi alanında yazar & stratejist.  
-Küresel sermaye akışlarını, teknopolitik güç dengelerini ve Web3 ekosistemini analiz ediyorum.  
-Uluslararası projelerin Türkiye pazarında doğru konumlanmasına köprü kuruyorum.
+8 yılı aşkın süredir kripto para ve blokzincir ekosisteminde aktif olarak yer alan bir **teknoloji ve Web3 profesyoneliyim.**  
+Güçlü iletişim ağımı nitelikli iş birliklerine dönüştürerek birçok uluslararası projenin **Türkiye pazarında doğru konumlanmasına** katkı sağladım;  
+yerel ekosistem ile global projeler arasında **köprüler kurdum.**
+
+Son yıllarda saha deneyimimi **teknoloji, teknopolitika ve makroekonomi perspektifiyle** yazarlık çalışmalarına taşıyorum.  
+Makroekonomik veriler, sermaye akışları, küresel piyasalar, jeopolitik gelişmeler ve geleneksel sermaye piyasaları üzerine analizler üretiyorum.  
+Kurucu ortağı olduğum girişimler aracılığıyla ekosistemin gelişimine katkı sunarken, **yerel ve global projelere stratejik destek** sağlamaya devam ediyorum.
 
 > 🌍 *Piyasaları okuyan, ekosistemi şekillendiren, köprüleri kuran.*
 
