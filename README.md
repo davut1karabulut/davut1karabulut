@@ -35,18 +35,6 @@ Uluslararası projelerin Türkiye pazarında doğru konumlanmasına köprü kuru
 
 ---
 
-## 🎯 Uzmanlık Alanları
-
-```text
-₿  Kripto & Blokzincir        ████████████████  8+ Yıl
-📊 Makroekonomi & Piyasalar   ███████████████░  İleri Seviye
-🌍 Jeopolitik & Teknopolitik  ██████████████░░  Stratejik Analiz
-🤝 Türkiye Pazar Stratejisi   ████████████████  Uzman
-🤖 Web3 & AI Mimarisi         ████████████░░░░  Platform Geliştirme
-```
-
----
-
 ## 🛠️ Teknoloji Seti
 
 <div align="center">
