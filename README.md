@@ -32,14 +32,6 @@
 
 </div>
 
-| Platform | Kapsam |
-|:---|:---|
-| 🔴 **Haberler.com** | Küresel güç dengeleri, teknolojik egemenlik ve teknolojinin devletler, ekonomiler & toplumlar üzerindeki etkisini ele alan teknopolitik yazılar |
-| 🔵 **Investing.com** | Sermaye akışları, likidite döngüleri ve küresel ekonomik gelişmeleri ele alan makroekonomi yazıları |
-| 🟡 **CoinMarketCap** | Kripto, Web3 & Blokzincir analizleri ve topluluk içerikleri |
-| 🟠 **Binance Square** | Kripto, Web3 & Blokzincir üzerine özgün içerikler |
-| ⚫ **X (Twitter)** | Potansiyeli yüksek, yatırım almış proje ve şirketler hakkında erken aşama & "early" içerikler |
-
 ---
 
 ## 🛠️ Teknoloji Seti
