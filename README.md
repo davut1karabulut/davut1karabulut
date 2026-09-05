@@ -35,8 +35,6 @@ Uluslararası projelerin Türkiye pazarında doğru konumlanmasına köprü kuru
 | <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://x.com&size=32" width="18" style="vertical-align:middle;border-radius:3px" /> **X (Twitter)** — *Makaleler* | Teknopolitik & makroekonomi makaleleri | [Makaleler →](https://x.com/davut1karabulut/articles) |
 | <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://linkedin.com&size=32" width="18" style="vertical-align:middle;border-radius:3px" /> **LinkedIn** — *Profesyonel* | İş birliği & profesyonel ağ | [Bağlan →](https://www.linkedin.com/in/davut1karabulut) |
 | <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://telegram.org&size=32" width="18" style="vertical-align:middle;border-radius:3px" /> **Telegram** — *Kanal* | Anlık piyasa görüşleri & duyurular | [Katıl →](https://t.me/davut1karabulut) |
-| <img src="https://pbs.twimg.com/profile_images/1865491350776356864/K9o5Wpbo_200x200.jpg" width="18" style="vertical-align:middle;border-radius:3px" /> **Doğu Blockchain** — *Kurucu Ortak* | Bölgesel Web3 ekosistemi & topluluk liderliği | [Profil →](https://linktr.ee/davut1karabulut) |
-| <img src="https://pbs.twimg.com/profile_images/1631969042167734275/J2WNXA3I_200x200.jpg" width="18" style="vertical-align:middle;border-radius:3px" /> **AIPA** — *Platform Üyesi* | Yapay Zekâ politikaları & etik standartlar | Üye |
 
 ---
 
