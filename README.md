@@ -19,7 +19,7 @@
 8+ yıldır kripto para ve blokzincir ekosisteminde aktif olarak faaliyet gösteriyorum.  
 Uluslararası projelerin global pazarda doğru konumlanmasına katkı sağladım; güçlü network'üm sayesinde yerel ekosistem ile global projeler arasında **köprü kurdum.**
 
-Saha deneyimimi **teknopolitika ve makroekonomi** perspektifiyle yazarlığa taşıyorum:  
+Saha deneyimimi, **teknopolitik ve makroekonomik** bir perspektifle yazarlık çalışmalarına taşıyorum.  
 sermaye akışları, küresel piyasalar ve jeopolitik gelişmeler üzerine analizler üretiyor, **projelere stratejik destek** sağlıyorum.
 
 > 🌍 *Piyasaları okuyan, ekosistemi şekillendiren, köprüleri kuran.*
