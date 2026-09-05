@@ -59,21 +59,6 @@ Yayımlanan güncel köşe yazılarımı, piyasa analizlerimi ve raporlarımı a
 
 ---
 
-## 🔒 Özel Mülkiyet & Kurumsal Altyapı Projelerim (Proprietary Architecture)
-
-> ℹ️ *Aşağıdaki platformlar ticari, tescilli ve kurumsal operasyonlar kapsamında geliştirildiği için kaynak kodları **özel mülkiyet (Private Enterprise)** olarak saklanmaktadır.*
-
-| Platform | Kapsam & Mimari | Altyapı & Teknoloji | Güvenlik / Durum |
-|:---|:---|:---|:---:|
-| 🎓 **YKS Tercih Portalı** | ÖSYM Kılavuzu & URAP Akademik Performans Endeksleri Entegre Analiz Ekosistemi | `React` `TypeScript` `Vite` `Prisma` `Tailwind` | 🔒 Private Enterprise |
-| 🧠 **NVIDIA NIM AI Platform** | NVIDIA NIM tabanlı çok modlu (Chat, Vision, RAG, Safety, Logistics) AI süper uygulaması | `FastAPI` `Next.js` `Python` `NVIDIA NIM` | 🔒 Private Enterprise |
-| ₿ **OmniFi Web3 Finance** | Seed phrase gerektirmeyen, AI ajan destekli Web3 ticaret ve akıllı cüzdan yönetim merkezi | `Solidity` `React` `TypeScript` `Hardhat` | 🔒 Private Enterprise |
-| 🕌 **İslami Yaşam Platformu** | GPS tabanlı namaz vakitleri, tam Kuran, kıble radarı ve zekât hesaplama motoru | `Flutter` `Dart` `Cross-Platform` | 🔒 Private Enterprise |
-| 🗺️ **Türkiye Fiyat Haritası** | 81 ilin taşımacılık ve tarife metriklerini görselleştiren dinamik analiz haritası | `React` `Vite` `Interactive Analytics` | 🔒 Private Enterprise |
-| 🏙️ **ŞehirBorsa** | TÜİK 2023 GSYH verileriyle Türkiye'nin 81 ilini modelleyen kalkınma fonu simülatörü | `Vanilla JS` `HTML5` `CSS3` | 🔒 Private Enterprise |
-
----
-
 ## 🎯 Temel Yetkinlik & Stratejik Uzmanlıklar
 
 ```text
