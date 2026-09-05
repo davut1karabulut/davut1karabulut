@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Davut%20Karabulut&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Teknoloji%20%26%20Makroekonomi%20Yazar%C4%B1%20%C2%B7%20Web3%20Stratejisti&descAlignY=55&descSize=15" width="100%"/>
+# Davut Karabulut
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=9333EA&center=true&vCenter=true&width=720&lines=8%2B+Y%C4%B1l+Kripto+%26+Blokzincir+Deneyimi+%E2%82%BF;Yazar+%40+Haberler.com+%26+Investing.com+%E2%9C%8D%EF%B8%8F;Makroekonomi+%26+Teknopolitik+Analiz+%F0%9F%93%8A;Co-Founder+%40+Do%C4%9Fu+Blockchain+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -77,6 +77,6 @@ Uluslararası projelerin Türkiye pazarında doğru konumlanmasına köprü kuru
 
 📍 Van, Türkiye
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&fontSize=12&fontColor=fff" width="100%"/>
+![visitors](https://komarev.com/ghpvc/?username=davut1karabulut&color=9333EA&style=flat-square&label=Profil+Görüntülenme)
 
 </div>
