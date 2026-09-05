@@ -1,73 +1,63 @@
 <div align="center">
 
-# Merhaba, ben Davut! 👋
+# Davut Karabulut
 
-### Content Creator · Writer · Crypto Author · Co-Founder
+### Teknoloji & Makroekonomi Yazarı · Kripto & Blokzincir Ekosistemi · Stratejik Danışman
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linktr.ee/davut1karabulut)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/davut1karabulut)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/davut1karabulut)
+[![Haberler.com](https://img.shields.io/badge/Haberler.com-Yazar-E63946?style=for-the-badge)](https://haberler.com)
+[![Investing.com](https://img.shields.io/badge/Investing.com-Köşe_Yazarı-1E3A5F?style=for-the-badge)](https://investing.com)
 
 </div>
 
 ---
 
-## 🙋‍♂️ Hakkımda
+## 🌐 Kimim?
 
-- ✍️ **Writer & Columnist** @ [Haberler.com](https://haberler.com) & [Investing.com](https://investing.com)
-- ₿ **Crypto Author** — Blockchain ve kripto para ekosistemi üzerine yazılar
-- 🤝 **Co-Founder** @ [Doğu Blockchain](https://linktr.ee/davut1karabulut)
-- 🧠 **AIPA Member** — Yapay Zekâ ve İnovasyon Platformu
-- 📍 **Van, Türkiye**
+8 yılı aşkın süredir **kripto para ve blokzincir ekosisteminde** aktif rol alan, güçlü iletişim ağını nitelikli iş birliklerine dönüştüren ve piyasa dinamiklerini ile küresel gelişmeleri **teknopolitik bir perspektifle** analiz eden bir **teknoloji ve makroekonomi yazarıyım.**
+
+Sektörde edindiğim deneyimle bugüne dek birçok **uluslararası projenin Türkiye pazarında** doğru konumlanmasına katkı sağladım; yerel ekosistem ile küresel projeler arasında **sürdürülebilir bir köprü** kurdum.
+
+Eş zamanlı olarak **makroekonomik verileri, sermaye akışlarını ve jeopolitik gelişmeleri** bütüncül bir yaklaşımla yorumluyor, geleneksel finans ve sermaye piyasalarına ilişkin derinlemesine analizlerimi sürdürüyorum.
+
+Sektörel farkındalığı artırma misyonuyla, kurucu ortağı olduğum inisiyatifler üzerinden **ekosistem geliştirme çalışmalarına** liderlik ediyorum. Sahadaki aktif deneyimimle yerel girişimlere ve global projelere **stratejik destek** sunmaya devam ediyorum.
 
 ---
 
-## 🚀 Neler Yapıyorum?
+## 🎯 Uzmanlık Alanları
 
 ```text
-🌐 Web Geliştirme     ████████████░░░   Aktif
-₿  Blockchain / Web3  ███████████░░░░   Aktif  
-🤖 AI Uygulamaları    ██████████░░░░░   Aktif
-✍️  İçerik Üretimi    ████████████████  Sürekli
+₿  Kripto & Blokzincir Ekosistemi    ████████████████  8+ Yıl
+📊 Makroekonomi & Sermaye Piyasaları  ███████████████░  Aktif
+🌍 Jeopolitik & Teknopolitik Analiz  ██████████████░░  Aktif
+🤝 Ekosistem Geliştirme & Strateji   ███████████████░  Liderlik
+🇹🇷 Türkiye Pazarı Konumlandırma     ████████████████  Uzman
 ```
 
 ---
 
-## 🛠️ Teknoloji Stack'im
+## 🏛️ Roller & Platformlar
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Backend & AI**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NVIDIA NIM](https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white)
-
-**Blockchain**
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum)
-![Web3](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js)
+| Platform | Rol |
+|----------|-----|
+| ✍️ **Haberler.com** | Teknoloji & Kripto Yazarı |
+| 📈 **Investing.com** | Makroekonomi Köşe Yazarı |
+| ⛓️ **Doğu Blockchain** | Kurucu Ortak |
+| 🧠 **AIPA** | Üye — Yapay Zekâ & İnovasyon Platformu |
+| 🌐 **Uluslararası Projeler** | Türkiye Pazarı Stratejisti |
 
 ---
 
-## 📌 Öne Çıkan Projelerim
+## 🛠️ Geliştirdiğim Projeler
 
-| Proje | Açıklama | Teknoloji |
-|-------|----------|-----------|
-| 🎓 **YKS Tercih Portalı** | 2026 ÖSYM + URAP Analiz Ekosistemi | React, Prisma |
-| 🧠 **NVIDIA NIM AI Platform** | Çok modlu AI süper uygulaması | FastAPI, Next.js |
-| ₿ **OmniFi** | Web3 Finance, Simplified | Solidity, React |
-| 🕌 **İslami Uygulama** | Namaz, Kuran, Kıble, Zekât | Flutter |
-| 🗺️ **Türkiye Fiyat Haritası** | İl bazlı taşımacılık analizi | React, Vite |
-| 🏙️ **ŞehirBorsa** | Şehir kalkınma fonu simülatörü | HTML, JS |
+| Proje | Açıklama |
+|-------|----------|
+| 🎓 **YKS Tercih Portalı** | 2026 ÖSYM + URAP Akademik Analiz Ekosistemi |
+| 🧠 **NVIDIA NIM AI Platform** | Çok modlu yapay zekâ süper uygulaması |
+| ₿ **OmniFi** | Web3 Finance — Simplified |
+| 🕌 **İslami Uygulama** | Namaz, Kuran, Kıble, Zekât (Flutter) |
+| 🗺️ **Türkiye Fiyat Haritası** | İl bazlı taşımacılık fiyat analizi |
+| 🏙️ **ŞehirBorsa** | Şehir kalkınma fonu simülatörü |
 
 ---
 
@@ -75,7 +65,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davut1karabulut&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davut1karabulut&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=tr)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davut1karabulut&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -85,9 +75,9 @@
 
 <div align="center">
 
-### 💬 "Kod yaz, öğren, paylaş — tekrarla."
+### *"Piyasaları okuyan, ekosistemi şekillendiren, köprüleri kuran."*
 
-**📫 Ulaşmak için:** [linktr.ee/davut1karabulut](https://linktr.ee/davut1karabulut)
+**📍 Van, Türkiye** &nbsp;|&nbsp; **🔗 [linktr.ee/davut1karabulut](https://linktr.ee/davut1karabulut)**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=davut1karabulut&color=blueviolet&style=flat-square&label=Profil+Görüntülenme)
 
