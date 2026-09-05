@@ -54,8 +54,8 @@ Yayımlanan güncel köşe yazılarımı, piyasa analizlerimi ve raporlarımı a
 |:---|:---|:---:|
 | <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://haberler.com&size=32" width="20" height="20" style="vertical-align: middle; border-radius: 4px;" /> **Haberler.com**<br/><sub>Teknopolitik</sub> | • **Teknopolitik Analizler:** Küresel güç dengeleri & teknolojik egemenlik | [**Yazıları Oku →**](https://www.haberler.com/yazarlar/davut-karabulut/yazilari/) |
 | <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://investing.com&size=32" width="20" height="20" style="vertical-align: middle; border-radius: 4px;" /> **Investing.com**<br/><sub>Makroekonomik</sub> | • **Makroekonomi:** Küresel sermaye akışları ve likidite döngüleri | [**Analizleri İncele →**](https://tr.investing.com/members/265888440/opinion) |
-| ⛓️ **Doğu Blockchain**<br/><sub>Kurucu Ortak</sub> | • **Ekosistem Geliştirme:** Bölgesel Web3 farkındalığı ve topluluk liderliği | [**Ekosistem Profili →**](https://linktr.ee/davut1karabulut) |
-| 🧠 **AIPA**<br/><sub>Platform Üyesi</sub> | • **Yapay Zekâ Politikaları:** Ulusal inovasyon vizyonu ve etik standartlar | Üye |
+| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://twitter.com/dogublockchain&size=32" width="20" height="20" style="vertical-align: middle; border-radius: 4px;" /> **Doğu Blockchain**<br/><sub>Kurucu Ortak</sub> | • **Ekosistem Geliştirme:** Bölgesel Web3 farkındalığı ve topluluk liderliği | [**Ekosistem Profili →**](https://linktr.ee/davut1karabulut) |
+| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://aipaturkey.org&size=32" width="20" height="20" style="vertical-align: middle; border-radius: 4px;" /> **AIPA**<br/><sub>Platform Üyesi</sub> | • **Yapay Zekâ Politikaları:** Ulusal inovasyon vizyonu ve etik standartlar | Üye |
 
 ---
 
